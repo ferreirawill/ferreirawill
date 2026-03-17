@@ -1,5 +1,3 @@
-yamlname: Generate Snake
-
 on:
   schedule:
     - cron: "0 0 * * *"
