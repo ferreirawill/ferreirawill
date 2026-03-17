@@ -66,10 +66,10 @@ public class Program
 
 Sou Co-fundador e Tech Lead na [NEUCO](https://github.com/neuco-organization), onde viabilizamos soluções tecnológicas para nossos clientes. Atuo como Software Architect & Product Owner nos projetos que desenvolvemos, garantindo o alinhamento entre a necessidade do negócio e a execução técnica. Meu trabalho envolve:
 
-🏗️ Definição de arquitetura de software e liderança técnica
-☁️ Implementação e gestão de infraestrutura em AWS
-🔄 Construção de serviços de backend escaláveis com .NET e Python
-🤝 Interface com o produto — traduzindo necessidades de negócio em roadmaps técnicos
+- 🏗️ Definição de arquitetura de software e liderança técnica
+- ☁️ Implementação e gestão de infraestrutura em AWS
+- 🔄 Construção de serviços de backend escaláveis com .NET e Python
+- 🤝 Interface com o produto — traduzindo necessidades de negócio em roadmaps técnicos
 
 🐍 Contribuições
 <p align="center">
