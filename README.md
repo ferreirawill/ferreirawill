@@ -76,3 +76,15 @@ Trabalho principalmente em projetos privados com a [Neuco](https://github.com/ne
 - 🔄 Construção de serviços de backend escaláveis com .NET e Python
 - 🤝 Interface com o produto — traduzindo necessidades de negócio em roadmaps técnicos
 
+
+🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ferreirawill&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+
+🐍 Contribuições
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ferreirawill/ferreirawill/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
