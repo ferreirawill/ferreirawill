@@ -17,7 +17,7 @@ public class SoftwareEngineer
 {
     public string Name        { get; } = "William Ferreira";
     public string Role        { get; } = "Software Architect & Tech Lead";
-    public string Company     { get; } = "Neuco";
+    public string Company     { get; } = "NEUCO";
     public string CompanyUrl  { get; } = "https://github.com/neuco-organization";
     public string WorkFocus   { get; } = "Building innovative solutions";
     public List<string> Stack { get; } = new() { ".NET", "Python", "AWS", "Docker" };
@@ -71,13 +71,6 @@ Trabalho principalmente em projetos privados com a [Neuco](https://github.com/ne
 - ☁️ Implementação e gestão de infraestrutura em AWS
 - 🔄 Construção de serviços de backend escaláveis com .NET e Python
 - 🤝 Interface com o produto — traduzindo necessidades de negócio em roadmaps técnicos
-
-
-🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ferreirawill&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
 
 🐍 Contribuições
 <p align="center">
