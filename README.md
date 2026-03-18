@@ -40,7 +40,7 @@ public class Program
 }
 ```
 ---
-
+## 🚀 O que eu faço
 Sou Co-fundador e Tech Lead na [NEUCO](https://github.com/neuco-organization), onde viabilizamos soluções tecnológicas para nossos clientes. Atuo como Software Architect & Product Owner nos projetos que desenvolvemos, garantindo o alinhamento entre a necessidade do negócio e a execução técnica. Meu trabalho envolve:
 
 - 🏗️ Definição de arquitetura de software e liderança técnica
