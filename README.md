@@ -1,12 +1,3 @@
-<h1 align="center">Olá 👋</h1>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mferreira-william/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ferreirawill94@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/ferreirawill"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
 
 ```csharp
 using System;
@@ -48,7 +39,11 @@ Sou Co-fundador e Tech Lead na [NEUCO](https://github.com/neuco-organization), o
 - 🔄 Construção de serviços de backend escaláveis com .NET e Python
 - 🤝 Interface com o produto — traduzindo necessidades de negócio em roadmaps técnicos
 
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/mferreira-william/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ferreirawill94@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/ferreirawill"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ## 🔧 Tecnologias & Ferramentas
 
