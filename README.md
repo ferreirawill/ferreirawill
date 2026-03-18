@@ -39,7 +39,7 @@ public class Program
     }
 }
 ```
----
+
 ## 🚀 O que eu faço
 Sou Co-fundador e Tech Lead na [NEUCO](https://github.com/neuco-organization), onde viabilizamos soluções tecnológicas para nossos clientes. Atuo como Software Architect & Product Owner nos projetos que desenvolvemos, garantindo o alinhamento entre a necessidade do negócio e a execução técnica. Meu trabalho envolve:
 
@@ -48,7 +48,7 @@ Sou Co-fundador e Tech Lead na [NEUCO](https://github.com/neuco-organization), o
 - 🔄 Construção de serviços de backend escaláveis com .NET e Python
 - 🤝 Interface com o produto — traduzindo necessidades de negócio em roadmaps técnicos
 
----
+
 
 ## 🔧 Tecnologias & Ferramentas
 
@@ -68,10 +68,9 @@ Sou Co-fundador e Tech Lead na [NEUCO](https://github.com/neuco-organization), o
   </a>
 </p>
 
----
 
 
-🐍 Contribuições
+## 🐍 Contribuições
 <p align="center">
   <img src="https://raw.githubusercontent.com/ferreirawill/ferreirawill/output/github-contribution-grid-snake-dark.svg" />
 </p>
